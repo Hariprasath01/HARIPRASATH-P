@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [ADVANCED HARDWARE BASED DIGILOCKER](https://www.electronicwings.com/users/HARIPRASATHP/profile)
 
-- 🌱 I’m currently learning **ROS**
+- 🌱 I’m currently learning **ROS,Node.Js(Backend),MongoDB**
 
 - 📫 How to reach me **hariprasath.ec20@bitsathy.ac.in**
 
