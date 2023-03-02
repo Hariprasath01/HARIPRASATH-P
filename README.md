@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm HARIPRASATH P</h1>
 <h3 align="center">A passionate Robotics developer from India</h3>
-
+<img align="right" alt="coding" width="400" src="https://www.technogeeks.in/tech_uploads/2018/06/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hariprasath01&label=Profile%20views&color=0e75b6&style=flat" alt="hariprasath01" /> </p>
 
 - 🔭 I’m currently working on [ADVANCED HARDWARE BASED DIGILOCKER](https://www.electronicwings.com/users/HARIPRASATHP/profile)
@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/hariprasath-p-19261a206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/hariprasath-p-19261a206" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/phariprasath2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/phariprasath2020" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/https://leetcode.com/hariprasath_1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/hariprasath_1/" height="30" width="40" /></a>
 </p>
 
