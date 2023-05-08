@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm HARIPRASATH P</h1>
-<h3 align="center">A passionate Robotics developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.technogeeks.in/tech_uploads/2018/06/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hariprasath01&label=Profile%20views&color=0e75b6&style=flat" alt="hariprasath01" /> </p>
 
