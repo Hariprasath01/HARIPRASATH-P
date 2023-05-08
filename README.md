@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [ADVANCED HARDWARE BASED DIGILOCKER](https://www.electronicwings.com/users/HARIPRASATHP/profile)
 
-- 🌱 I’m currently learning **ROS,Biosignal Processing(EEG,ECG,EEG),MongoDB**
+- 🌱 I’m currently learning **ROS,Biosignal Processing(EEG,ECG,EEG),Scripting language**
 
 - 📫 How to reach me **hariprasath.ec20@bitsathy.ac.in**
 
